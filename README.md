@@ -1,6 +1,6 @@
 # CTD (Cool Time Display)
 
-a cool (literally) time display website made with <a href="https://turbowarp.org">Turbowarp</a> and packaged with <a href="https://packager.turbowarp.org/">Turbowarp's Packager</a>.
+a cool time display website made with <a href="https://turbowarp.org">Turbowarp</a> and packaged with <a href="https://packager.turbowarp.org/">Turbowarp's Packager</a>.
 
 <a href="https://bobygowastaken.github.io/CTD/">Github Page (Website) can be found here</a>.
 
